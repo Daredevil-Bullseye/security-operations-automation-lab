@@ -29,3 +29,5 @@ Future Areas of Interest:
 ## Purpose
 
 This repository is part of my ongoing professional development and interest in operational security leadership, automation, and scalable security operations practices.
+
+This first script uses sample alert data to demonstrate how SOC alert volumes can be summarised by severity. Future versions will read from CSV files or API sources.
