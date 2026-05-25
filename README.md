@@ -31,3 +31,16 @@ Future Areas of Interest:
 This repository is part of my ongoing professional development and interest in operational security leadership, automation, and scalable security operations practices.
 
 This first script uses sample alert data to demonstrate how SOC alert volumes can be summarised by severity. Future versions will read from CSV files or API sources.
+
+## Example Output
+```
+Daily SOC Metrics
+-----------------
+Critical Alerts: 2
+High Alerts: 2
+Medium Alerts: 2
+Low Alerts: 1
+```
+
+```markdown id="hqqg3f"
+This repository will continue evolving as part of my ongoing focus on operational maturity, automation, and practical security operations improvement.
